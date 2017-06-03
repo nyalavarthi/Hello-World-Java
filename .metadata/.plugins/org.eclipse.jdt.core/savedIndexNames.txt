@@ -4,7 +4,6 @@ INDEX VERSION 1.129+C:\projects\Docker\Hello\Hello-World-Java\.metadata\.plugins
 3423988565.index
 1075874757.index
 318857592.index
-1990175565.index
 4013218907.index
 1079038258.index
 3064462347.index
