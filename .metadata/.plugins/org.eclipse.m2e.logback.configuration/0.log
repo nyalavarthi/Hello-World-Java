@@ -1,0 +1,66 @@
+2017-06-01 23:31:11,124 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-06-01 23:31:11,181 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2017-06-01 23:31:11,215 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2017-06-01 23:31:11,251 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2017-06-01 23:32:22,913 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\pom.xml
+2017-06-01 23:32:26,138 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2017-06-01 23:32:26,208 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2017-06-01 23:32:28,579 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: docker-git-hello-world:docker-git-hello-world:1.0.0-SNAPSHOT @ C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\pom.xml.
+2017-06-01 23:32:28,906 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2017-06-01 23:32:28,937 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2017-06-01 23:32:29,231 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2017-06-01 23:32:29,266 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2017-06-01 23:32:29,329 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2017-06-01 23:32:29,491 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2017-06-01 23:32:30,668 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /docker-git-hello-world/src/main/java
+2017-06-01 23:32:30,672 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /docker-git-hello-world/src/test/java
+2017-06-01 23:32:31,149 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2017-06-01 23:32:32,165 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:32:32,166 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:32:32,167 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:32:32,167 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:32:36,160 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:32:36,160 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:32:36,162 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:32:36,162 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:32:51,207 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:32:51,207 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:32:51,208 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:32:51,209 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:33:18,832 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:33:18,832 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:33:18,833 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:33:18,834 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:33:47,014 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: docker-git-hello-world:docker-git-hello-world:0.0.1-SNAPSHOT @ C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\pom.xml.
+2017-06-01 23:33:47,462 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:33:47,463 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:33:47,465 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:33:47,465 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:33:48,898 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:33:48,898 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:33:48,899 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:33:48,900 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:34:18,909 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:34:18,909 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:34:18,910 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:34:18,911 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:34:49,007 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:34:49,007 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:34:49,009 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:34:49,009 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:34:50,038 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:34:50,039 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:34:50,040 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:34:50,040 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:34:54,456 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:34:54,456 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:34:54,457 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:34:54,458 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:35:26,459 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:35:26,459 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:35:26,460 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:35:26,461 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
+2017-06-01 23:35:40,207 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:35:40,207 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\main\resources
+2017-06-01 23:35:40,209 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-01 23:35:40,209 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projects\Docker\Hello\Hello-World-Java\docker-git-hello-world\src\test\resources
